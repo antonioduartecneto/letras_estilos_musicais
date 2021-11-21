@@ -1,1 +1,1 @@
-# letras_estilos_musicais
+# Corpus com letras de estilos musicais brasileiros
